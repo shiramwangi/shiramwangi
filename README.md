@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bchiira" target="blank"><img src="https://img.shields.io/twitter/follow/bchiira?logo=twitter&style=for-the-badge" alt="bchiira" /></a> </p>
 
-- 🔭 Currently working on my own startups **Project Ajira**
+- 🔭 Currently working on my own startup **Project Ajira**
 
 - 🌱 I’m currently learning **Blockchain and AI**
 
