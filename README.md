@@ -21,7 +21,7 @@
 
 <h3 align="left">About me</h3>
 
-- 🔭 Currently working on my own startups **Project Ajira**
+- 🔭 Currently working on my own startup **Project Ajira**
 
 - 🌱 I’m currently learning **Blockchain and AI**
 
