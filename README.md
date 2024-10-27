@@ -5,18 +5,23 @@ Hi there, I’m Chiira, from Kenya.👋 I am a software engineer. I solve proble
 <h1 align="center">Hi 👋, I'm Chiira Mwangi</h1>
 <h3 align="center">Junior software engineer from Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiramwangi" alt="shiramwangi" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiramwangi&label=Profile%20views&color=0e75b6&style=flat" alt="shiramwangi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bchiira" target="blank"><img src="https://img.shields.io/twitter/follow/bchiira?logo=twitter&style=for-the-badge" alt="bchiira" /></a> </p>
 
-- 🔭 Currently working on a start up **Project Ajira**
+- 🔭 Currently working on my own startups **Project Ajira**
 
 - 🌱 I’m currently learning **Blockchain and AI**
+
+- 👯 I’m looking to collaborate **with other startups**
+
+- 🤝 I’m looking for help **with App development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shiramwangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shiramwangi" height="30" width="40" /></a>
 <a href="https://twitter.com/bchiira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bchiira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chiira mwangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiira mwangi" height="30" width="40" /></a>
 <a href="https://instagram.com/shira.mwvngi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shira.mwvngi" height="30" width="40" /></a>
 </p>
 
@@ -28,4 +33,5 @@ Hi there, I’m Chiira, from Kenya.👋 I am a software engineer. I solve proble
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiramwangi&show_icons=true&locale=en" alt="shiramwangi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiramwangi&" alt="shiramwangi" /></p>
+
 
