@@ -6,7 +6,7 @@
 <p>I am a software engineer dedicated to building innovative solutions that solve real-world problems. With a strong foundation in full-stack development, I specialize in designing scalable, user-centric applications and am always exploring new technologies to enhance my skills. Currently, I'm working on a Blockchain project, PROJECT AJIRA. Passionate about leveraging tech for social impact, I enjoy collaborating on projects that drive positive change.</p>
 
 ### Education
-- **BSc, Computer Science**  
+- **BSc, Business and Information Technology**  
   Riara University, Kenya  
   Expected Graduation: 2026
 
