@@ -1,33 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chiira Mwangi</h1>
-<h3 align="center">Junior software engineer from Kenya</h3>
+<h3 align="center">JR. Software Engineer</h3>
 
 <h3 align="left">Who am I?</h3>
 
 <p>I am a software engineer dedicated to building innovative solutions that solve real-world problems. With a strong foundation in full-stack development, I specialize in designing scalable, user-centric applications and am always exploring new technologies to enhance my skills. Currently, I'm working on a Blockchain project, PROJECT AJIRA. Passionate about leveraging tech for social impact, I enjoy collaborating on projects that drive positive change.</p>
-
-### Education
-- **BSc, Business and Information Technology**  
-  Riara University, Kenya  
-  Expected Graduation: 2026
-
-- **Certificate in Software Engineering**  
-  ALX  
-  Completed: 2023
-
-- **Introduction to Computer Science CS50**  
-  Havard University  
-  Completed: 2022
-
-
-<h3 align="left">About me</h3>
-
-- 🔭 Currently working on my own startup **Project Ajira**
-
-- 🌱 I’m currently learning **Blockchain and AI**
-
-- 👯 I’m looking to collaborate **with other startups**
-
-- 🤝 I’m looking for help **with App development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
