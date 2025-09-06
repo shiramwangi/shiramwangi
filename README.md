@@ -1,14 +1,5 @@
-<h1 align="center">Hi 👋, I’m Mwangi Chiira (MC)</h1>
-<h3 align="center">Software Engineer | Nairobi, Kenya | 22</h3>
+<h1 align="center">Hi 👋, I’m Mwangi Chiira from Kenya</h1>
 
-<p align="center">
-  <a href="https://twitter.com/mwangi_shi8390" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" /></a>
-  <a href="https://linkedin.com/in/chiira-b-mwangi-271ab2297" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" /></a>
-</p>
-
----
-
-###  About Me
 I help build thoughtful and impactful developer tools and web applications—from payment flows to AI agents. Passionate about clean architecture, rapid learning, and creating systems that just work. Currently documenting my journey here—every weekend or day, building consistently and meaningfully.
 
 ---
