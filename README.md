@@ -18,12 +18,4 @@ I help build thoughtful and impactful developer tools and web applications—fro
 
 ---
 
-###  For Future Me (and you):
 This README is a snapshot—a mini-portfolio of where I am today. When I revisit it years from now, I’ll want to see progress, momentum, and where consistency took me.
-
----
-
-<p align="center">
-  Yours truly
-  MC❤️ .
-</p>
