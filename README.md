@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I’m Mwangi Chiira from Kenya</h1>
+<h1 align="center">Hi 👋, I’m Chiira (Shira)</h1>
 
 I help build thoughtful and impactful developer tools and web applications—from payment flows to AI agents. Passionate about clean architecture, rapid learning, and creating systems that just work. Currently documenting my journey here—every weekend or day, building consistently and meaningfully.
 
