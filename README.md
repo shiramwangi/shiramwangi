@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I’m Chiira (Shira)</h1>
 
 <p align="center">
-  <em>Software Engineer — AI, automation, and Solutions </em>
+  <em>Software Engineer — AI | Automation and Solutions </em>
 </p>
 
 
