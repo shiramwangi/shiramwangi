@@ -4,9 +4,7 @@
   <em>Software Engineer — AI, automation, and Solutions </em>
 </p>
 
----
 
-### About Me  
 I build software, explore AI, and automate the boring stuff.  
 Currently learning machine learning.
 
