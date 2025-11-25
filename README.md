@@ -17,16 +17,6 @@ Currently learning machine learning.
 
 ---
 
-### GitHub Stats  
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shiramwangi&show_icons=true&theme=default&hide_border=true" 
-    alt="Chiira's GitHub Stats" 
-  />
-</p>
-
----
-
 <p align="center">
   <em>This README is a snapshot — a record of progress and momentum over time.</em>
 </p>
